@@ -19,3 +19,12 @@ Using Python and SQLAlchemy to do basic climate analysis and data exploration of
 - Designing a query to find the most active stations.
 
 - Designing a query to retrieve the last 12 months of temperature observation data (TOBS).
+
+## Climate App
+- A dictionary using date as the key and prcp as the value.
+
+- A list of stations from the dataset.
+
+- The dates and temperature observations of the most active station for the last year of data.
+
+- List of the minimum temperature, the average temperature, and the max temperature for all dates greater than and equal to the given date.
